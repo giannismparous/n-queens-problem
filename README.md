@@ -10,6 +10,10 @@ The objective of this project was to develop an AI algorithm in order to be able
 ## Setting up 
 Compile the java files in the src folder and execute the Main file. Or just drag and drop the java files in your IDE and run the Main class from there.
 
+## Execution parameters 
+
+-N = the number of queens on the board, the board is also NxN
+
 ## Execution examples & outcomes
 
 <p align="center">
