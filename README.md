@@ -12,7 +12,7 @@ Compile the java files in the src folder and execute the Main file. Or just drag
 
 ## Execution parameters 
 
--N = the number of queens on the board, the board is also NxN
+- N = the number of queens on the board, the board is also NxN
 
 ## Execution examples & outcomes
 
